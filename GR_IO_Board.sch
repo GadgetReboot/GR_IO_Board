@@ -20,7 +20,7 @@ U 1 1 5E5127A3
 P 4000 3150
 F 0 "R1" V 3887 3150 50  0000 C CNN
 F 1 "10K" V 3796 3150 50  0001 C CNN
-F 2 "CustomPot:Potentiometer_Green" H 4000 3150 50  0001 C CNN
+F 2 "_Custom_Footprints:Potentiometer_Green" H 4000 3150 50  0001 C CNN
 F 3 "~" H 4000 3150 50  0001 C CNN
 	1    4000 3150
 	0    -1   -1   0   
@@ -90,7 +90,7 @@ U 1 1 5E519E75
 P 4950 3150
 F 0 "R2" V 4837 3150 50  0000 C CNN
 F 1 "10K" V 4746 3150 50  0001 C CNN
-F 2 "CustomPot:Potentiometer_Green" H 4950 3150 50  0001 C CNN
+F 2 "_Custom_Footprints:Potentiometer_Green" H 4950 3150 50  0001 C CNN
 F 3 "~" H 4950 3150 50  0001 C CNN
 	1    4950 3150
 	0    -1   -1   0   
@@ -160,7 +160,7 @@ U 1 1 5E52F7D0
 P 5875 3150
 F 0 "R3" V 5762 3150 50  0000 C CNN
 F 1 "10K" V 5671 3150 50  0001 C CNN
-F 2 "CustomPot:Potentiometer_Green" H 5875 3150 50  0001 C CNN
+F 2 "_Custom_Footprints:Potentiometer_Green" H 5875 3150 50  0001 C CNN
 F 3 "~" H 5875 3150 50  0001 C CNN
 	1    5875 3150
 	0    -1   -1   0   
@@ -230,7 +230,7 @@ U 1 1 5E52F805
 P 6825 3150
 F 0 "R4" V 6712 3150 50  0000 C CNN
 F 1 "10K" V 6621 3150 50  0001 C CNN
-F 2 "CustomPot:Potentiometer_Green" H 6825 3150 50  0001 C CNN
+F 2 "_Custom_Footprints:Potentiometer_Green" H 6825 3150 50  0001 C CNN
 F 3 "~" H 6825 3150 50  0001 C CNN
 	1    6825 3150
 	0    -1   -1   0   
@@ -300,7 +300,7 @@ U 1 1 5E53D90D
 P 3150 5900
 F 0 "SW4" H 3150 6093 50  0000 C CNN
 F 1 "SW_Push" H 3150 6094 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 3150 6100 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 3150 6100 50  0001 C CNN
 F 3 "~" H 3150 6100 50  0001 C CNN
 	1    3150 5900
 	1    0    0    -1  
@@ -326,7 +326,7 @@ U 1 1 5E541B26
 P 2125 5900
 F 0 "SW3" H 2125 6093 50  0000 C CNN
 F 1 "SW_Push" H 2125 6094 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 2125 6100 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 2125 6100 50  0001 C CNN
 F 3 "~" H 2125 6100 50  0001 C CNN
 	1    2125 5900
 	1    0    0    -1  
@@ -352,7 +352,7 @@ U 1 1 5E544E4A
 P 3150 5475
 F 0 "SW2" H 3150 5668 50  0000 C CNN
 F 1 "SW_Push" H 3150 5669 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 3150 5675 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 3150 5675 50  0001 C CNN
 F 3 "~" H 3150 5675 50  0001 C CNN
 	1    3150 5475
 	1    0    0    -1  
@@ -378,7 +378,7 @@ U 1 1 5E544E60
 P 2125 5475
 F 0 "SW1" H 2125 5668 50  0000 C CNN
 F 1 "SW_Push" H 2125 5669 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 2125 5675 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 2125 5675 50  0001 C CNN
 F 3 "~" H 2125 5675 50  0001 C CNN
 	1    2125 5475
 	1    0    0    -1  
@@ -447,7 +447,7 @@ U 1 1 5E568CA8
 P 8975 5875
 F 0 "SW8" H 8975 6068 50  0000 C CNN
 F 1 "SW_Push" H 8975 6069 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 8975 6075 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 8975 6075 50  0001 C CNN
 F 3 "~" H 8975 6075 50  0001 C CNN
 	1    8975 5875
 	1    0    0    -1  
@@ -473,7 +473,7 @@ U 1 1 5E568CBE
 P 7950 5875
 F 0 "SW7" H 7950 6068 50  0000 C CNN
 F 1 "SW_Push" H 7950 6069 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 7950 6075 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 7950 6075 50  0001 C CNN
 F 3 "~" H 7950 6075 50  0001 C CNN
 	1    7950 5875
 	1    0    0    -1  
@@ -499,7 +499,7 @@ U 1 1 5E568CD4
 P 8975 5450
 F 0 "SW6" H 8975 5643 50  0000 C CNN
 F 1 "SW_Push" H 8975 5644 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 8975 5650 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 8975 5650 50  0001 C CNN
 F 3 "~" H 8975 5650 50  0001 C CNN
 	1    8975 5450
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 5E568CEA
 P 7950 5450
 F 0 "SW5" H 7950 5643 50  0000 C CNN
 F 1 "SW_Push" H 7950 5644 50  0001 C CNN
-F 2 "CustomPot:PushButton" H 7950 5650 50  0001 C CNN
+F 2 "_Custom_Footprints:PushButton" H 7950 5650 50  0001 C CNN
 F 3 "~" H 7950 5650 50  0001 C CNN
 	1    7950 5450
 	1    0    0    -1  
